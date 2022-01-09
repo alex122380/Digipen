@@ -1,4 +1,0 @@
-﻿  driver.cpp
-  vector.cpp
-cl : 命令列 warning D9025: 覆寫 '/D_CRT_SECURE_NO_WARNINGS'，以 '/U_CRT_SECURE_NO_WARNINGS'
-  sparseVector.vcxproj -> C:\Users\alex1\Desktop\Alex\DigiPen\2019 Fall\CS 225 Advanced CC++\Assignment 4\sparseVector\Debug\sparseVector.exe
